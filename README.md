@@ -1,6 +1,6 @@
 # BiasLens_Plus
 
-## 1. 在BiasLens中https://github.com/LLMBias/BiasLens，获取role标签
+## 1. 在BiasLens中获取role标签: https://github.com/LLMBias/BiasLens
 
 ## 2. 使用get_name.py获取名字标签
 
